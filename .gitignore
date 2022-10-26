@@ -1,0 +1,21 @@
+### Eclipse
+.classpath
+.project
+.settings/
+
+### Intellij
+.idea/
+*.iml
+*.iws
+
+### Mac
+.DS_Store
+
+### Maven template
+log/
+target/
+screenshots
+Execution_Report/
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar

@@ -1,0 +1,16 @@
+[
+  {
+    "env": "dev",
+    "data": {
+      "pass": 112,
+      "name": "rohan"
+    }
+  },
+  {
+    "env": "qa",
+    "data": {
+      "pass": 234,
+      "name": "rion"
+    }
+  }
+]

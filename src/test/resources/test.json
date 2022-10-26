@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Jawad",
+    "permanent": true,
+    "phone_number": 3482934,
+    "role": "qa",
+    "city": "NJ"
+  },
+  {
+    "id": 4,
+    "name": "Zann",
+    "permanent": true,
+    "phone_number": 35453546,
+    "role": "sdet",
+    "city": "NYC"
+  },
+  {
+    "id": 5,
+    "name": "Opu",
+    "permanent": true,
+    "phone_number": 467467,
+    "role": "sdet",
+    "city": "NYC"
+  },
+  {
+    "id": 6,
+    "name": "Samiyan",
+    "permanent": true,
+    "phone_number": 35646,
+    "role": "sdet",
+    "city": "NYC"
+  }
+]
